@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>DATOlogo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DATOlogo">
+            <g id="logo">
+                <text id="DA-TO" font-family="Futura-Medium, Futura" font-size="14" font-weight="400" line-spacing="17" letter-spacing="8.40000057" fill="#054663">
+                    <tspan x="4" y="16">DA</tspan>
+                    <tspan x="4.54345703" y="33">TO</tspan>
+                    <tspan x="40.2721691" y="33" letter-spacing="0.816666722"> </tspan>
+                </text>
+                <rect id="Rectangle-5" stroke="#054663" stroke-width="2" x="1" y="1" width="38" height="38"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

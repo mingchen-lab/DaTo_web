@@ -1,0 +1,401 @@
+TOP1-TOP1-TOP1-TOP1,659,NA;US;California;San Diego
+TOP1-TOP1-TOP1-TOP2,493,NA;US;California;San Francisco
+TOP1-TOP1-TOP1-TOP3,313,NA;US;California;Mountain View
+TOP1-TOP1-TOP1-TOP4,175,NA;US;California;La Jolla
+TOP1-TOP1-TOP1-TOP5,156,NA;US;California;Los Angeles
+TOP1-TOP1-TOP1-TOP6,138,NA;US;California;Stanford
+TOP1-TOP1-TOP2-TOP1,259,NA;US;Maryland;Bethesda
+TOP1-TOP1-TOP2-TOP2,84,NA;US;Maryland;Baltimore
+TOP1-TOP1-TOP2-TOP3,76,NA;US;Maryland;Frederick
+TOP1-TOP1-TOP2-TOP4,45,NA;US;Maryland;Rockville
+TOP1-TOP1-TOP2-TOP5,35,NA;US;Maryland;College Park
+TOP1-TOP1-TOP2-TOP6,34,NA;US;Maryland;Port Tobacco
+TOP1-TOP1-TOP3-TOP1,229,NA;US;Massachusetts;Cambridge
+TOP1-TOP1-TOP3-TOP2,59,NA;US;Massachusetts;Brighton
+TOP1-TOP1-TOP3-TOP3,41,NA;US;Massachusetts;Burlington
+TOP1-TOP1-TOP3-TOP4,33,NA;US;Massachusetts;Boston
+TOP1-TOP1-TOP3-TOP5,24,NA;US;Massachusetts;Chestnut Hill
+TOP1-TOP1-TOP3-TOP6,10,NA;US;Massachusetts;Worcester
+TOP1-TOP1-TOP4-TOP1,185,NA;US;New York;New York City
+TOP1-TOP1-TOP4-TOP2,36,NA;US;New York;Buffalo
+TOP1-TOP1-TOP4-TOP3,35,NA;US;New York;Cold Spring Harbor
+TOP1-TOP1-TOP4-TOP4,35,NA;US;New York;East Ithaca
+TOP1-TOP1-TOP4-TOP5,22,NA;US;New York;Albany
+TOP1-TOP1-TOP4-TOP6,20,NA;US;New York;Henrietta
+TOP1-TOP1-TOP5-TOP1,120,NA;US;Texas;Dallas
+TOP1-TOP1-TOP5-TOP2,91,NA;US;Texas;Houston
+TOP1-TOP1-TOP5-TOP3,41,NA;US;Texas;Austin
+TOP1-TOP1-TOP5-TOP4,36,NA;US;Texas;College Station
+TOP1-TOP1-TOP5-TOP5,35,NA;US;Texas;San Antonio
+TOP1-TOP1-TOP5-TOP6,26,NA;US;Texas;Carrollton
+TOP1-TOP1-TOP6-TOP1,208,NA;US;Virginia;Ashburn
+TOP1-TOP1-TOP6-TOP2,41,NA;US;Virginia;Blacksburg
+TOP1-TOP1-TOP6-TOP3,27,NA;US;Virginia;Dulles
+TOP1-TOP1-TOP6-TOP4,24,NA;US;Virginia;Reston
+TOP1-TOP1-TOP6-TOP5,16,NA;US;Virginia;Charlottesville
+TOP1-TOP1-TOP6-TOP6,12,NA;US;Virginia;Richmond
+TOP1-TOP2-TOP1-TOP1,79,NA;CA;Ontario;Wilcox Corners
+TOP1-TOP2-TOP1-TOP2,61,NA;CA;Ontario;Toronto
+TOP1-TOP2-TOP1-TOP3,25,NA;CA;Ontario;Ottawa
+TOP1-TOP2-TOP1-TOP4,17,NA;CA;Ontario;Waterloo
+TOP1-TOP2-TOP1-TOP5,6,NA;CA;Ontario;Hamilton
+TOP1-TOP2-TOP1-TOP6,5,NA;CA;Ontario;Guelph
+TOP1-TOP2-TOP2-TOP1,80,NA;CA;British Columbia;Vancouver
+TOP1-TOP2-TOP2-TOP2,40,NA;CA;British Columbia;Fort Langley
+TOP1-TOP2-TOP2-TOP3,6,NA;CA;British Columbia;Victoria
+TOP1-TOP2-TOP2-TOP4,2,NA;CA;British Columbia;Burnaby
+TOP1-TOP2-TOP2-TOP5,1,NA;CA;British Columbia;Sidney
+TOP1-TOP2-TOP3-TOP1,40,NA;CA;Quebec;Montreal
+TOP1-TOP2-TOP3-TOP2,31,NA;CA;Quebec;Saint-Armand
+TOP1-TOP2-TOP3-TOP3,17,NA;CA;Quebec;Beauharnois
+TOP1-TOP2-TOP3-TOP4,13,NA;CA;Quebec;Sherbrooke
+TOP1-TOP2-TOP3-TOP5,4,NA;CA;Quebec;Quebec
+TOP1-TOP2-TOP3-TOP6,1,NA;CA;Quebec;Saint-Hyacinthe
+TOP1-TOP2-TOP4-TOP1,51,NA;CA;Alberta;Edmonton
+TOP1-TOP2-TOP4-TOP2,13,NA;CA;Alberta;Calgary
+TOP1-TOP2-TOP4-TOP3,1,NA;CA;Alberta;Lethbridge
+TOP1-TOP2-TOP5-TOP1,11,NA;CA;Nova Scotia;Halifax
+TOP1-TOP2-TOP6-TOP1,6,NA;CA;Saskatchewan;Saskatoon
+TOP1-TOP3-TOP1-TOP1,25,NA;MX;Distrito Federal;Mexico City
+TOP1-TOP3-TOP2-TOP1,3,NA;MX;Nuevo Leon;Monterrey
+TOP1-TOP3-TOP3-TOP1,2,NA;MX;Morelos;Huitzilac
+TOP1-TOP3-TOP3-TOP2,1,NA;MX;Morelos;Emiliano Zapata
+TOP1-TOP3-TOP4-TOP1,1,NA;MX;Guanajuato;Irapuato
+TOP1-TOP4-TOP1-TOP1,4,NA;CU;La Habana;Havana
+TOP1-TOP5-TOP1-TOP1,2,NA;KY;Cayman Islands;George Town
+TOP1-TOP6-TOP1-TOP1,1,NA;MQ;Martinique;Le Lamentin
+TOP2-TOP1-TOP1-TOP1,81,EU;DE;Bayern;Oberschleissheim
+TOP2-TOP1-TOP1-TOP2,62,EU;DE;Bayern;Garching bei Munchen
+TOP2-TOP1-TOP1-TOP3,62,EU;DE;Bayern;Munich
+TOP2-TOP1-TOP1-TOP4,39,EU;DE;Bayern;Nuremberg
+TOP2-TOP1-TOP1-TOP5,37,EU;DE;Bayern;Bad Abbach
+TOP2-TOP1-TOP1-TOP6,25,EU;DE;Bayern;Wuerzburg
+TOP2-TOP1-TOP2-TOP1,81,EU;DE;Baden-Wurttemberg;Wiesloch
+TOP2-TOP1-TOP2-TOP2,76,EU;DE;Baden-Wurttemberg;Tuebingen
+TOP2-TOP1-TOP2-TOP3,70,EU;DE;Baden-Wurttemberg;Heidelberg
+TOP2-TOP1-TOP2-TOP4,55,EU;DE;Baden-Wurttemberg;Karlsruhe
+TOP2-TOP1-TOP2-TOP5,33,EU;DE;Baden-Wurttemberg;Stuttgart
+TOP2-TOP1-TOP2-TOP6,31,EU;DE;Baden-Wurttemberg;Freiburg
+TOP2-TOP1-TOP3-TOP1,213,EU;DE;Berlin;Berlin
+TOP2-TOP1-TOP3-TOP2,7,EU;DE;Berlin;Friedrichshain
+TOP2-TOP1-TOP3-TOP3,5,EU;DE;Berlin;Dahlem
+TOP2-TOP1-TOP4-TOP1,61,EU;DE;Nordrhein-Westfalen;Bielefeld
+TOP2-TOP1-TOP4-TOP2,26,EU;DE;Nordrhein-Westfalen;Koeln
+TOP2-TOP1-TOP4-TOP3,21,EU;DE;Nordrhein-Westfalen;Muenster
+TOP2-TOP1-TOP4-TOP4,19,EU;DE;Nordrhein-Westfalen;Dusseldorf
+TOP2-TOP1-TOP4-TOP5,19,EU;DE;Nordrhein-Westfalen;Dortmund
+TOP2-TOP1-TOP4-TOP6,14,EU;DE;Nordrhein-Westfalen;Bonn
+TOP2-TOP1-TOP5-TOP1,46,EU;DE;Niedersachsen;Fassberg
+TOP2-TOP1-TOP5-TOP2,41,EU;DE;Niedersachsen;Braunschweig
+TOP2-TOP1-TOP5-TOP3,37,EU;DE;Niedersachsen;Gottingen
+TOP2-TOP1-TOP5-TOP4,3,EU;DE;Niedersachsen;Hanover
+TOP2-TOP1-TOP5-TOP5,2,EU;DE;Niedersachsen;Atzum
+TOP2-TOP1-TOP5-TOP6,1,EU;DE;Niedersachsen;Achim
+TOP2-TOP1-TOP6-TOP1,34,EU;DE;Sachsen;Leipzig
+TOP2-TOP1-TOP6-TOP2,18,EU;DE;Sachsen;Dresden
+TOP2-TOP1-TOP6-TOP3,17,EU;DE;Sachsen;Falkenstein
+TOP2-TOP1-TOP6-TOP4,8,EU;DE;Sachsen;Raum
+TOP2-TOP1-TOP6-TOP5,3,EU;DE;Sachsen;Radebeul
+TOP2-TOP1-TOP6-TOP6,1,EU;DE;Sachsen;Rossgen
+TOP2-TOP2-TOP1-TOP1,215,EU;GB;England;Saffron Walden
+TOP2-TOP2-TOP1-TOP2,141,EU;GB;England;London
+TOP2-TOP2-TOP1-TOP3,107,EU;GB;England;Oxford
+TOP2-TOP2-TOP1-TOP4,97,EU;GB;England;Cambridge
+TOP2-TOP2-TOP1-TOP5,83,EU;GB;England;Coton
+TOP2-TOP2-TOP1-TOP6,70,EU;GB;England;Manchester
+TOP2-TOP2-TOP2-TOP1,72,EU;GB;Scotland;Edinburgh
+TOP2-TOP2-TOP2-TOP2,26,EU;GB;Scotland;Glasgow
+TOP2-TOP2-TOP2-TOP3,20,EU;GB;Scotland;Dundee
+TOP2-TOP2-TOP2-TOP4,13,EU;GB;Scotland;Aberdeen
+TOP2-TOP2-TOP2-TOP5,8,EU;GB;Scotland;Livingston
+TOP2-TOP2-TOP2-TOP6,4,EU;GB;Scotland;Leith
+TOP2-TOP2-TOP3-TOP1,8,EU;GB;Wales;Cardiff
+TOP2-TOP2-TOP3-TOP2,4,EU;GB;Wales;Aberystwyth
+TOP2-TOP2-TOP3-TOP3,3,EU;GB;Wales;Llanfihangel-geneu'r-glyn
+TOP2-TOP2-TOP3-TOP4,2,EU;GB;Wales;Swansea
+TOP2-TOP2-TOP3-TOP5,2,EU;GB;Wales;Bow Street
+TOP2-TOP2-TOP3-TOP6,2,EU;GB;Wales;Ely
+TOP2-TOP2-TOP4-TOP1,2,EU;GB;Northern Ireland;Windsor
+TOP2-TOP2-TOP4-TOP2,2,EU;GB;Northern Ireland;Jordanstown
+TOP2-TOP2-TOP4-TOP3,1,EU;GB;Northern Ireland;Mill Loughan
+TOP2-TOP2-TOP4-TOP4,1,EU;GB;Northern Ireland;Belfast
+TOP2-TOP3-TOP1-TOP1,170,EU;FR;Ile-de-France;Paris
+TOP2-TOP3-TOP1-TOP2,30,EU;FR;Ile-de-France;Evry
+TOP2-TOP3-TOP1-TOP3,29,EU;FR;Ile-de-France;Gif-sur-Yvette
+TOP2-TOP3-TOP1-TOP4,28,EU;FR;Ile-de-France;Orsay
+TOP2-TOP3-TOP1-TOP5,13,EU;FR;Ile-de-France;Le Chesnay
+TOP2-TOP3-TOP1-TOP6,12,EU;FR;Ile-de-France;Fontainebleau
+TOP2-TOP3-TOP2-TOP1,82,EU;FR;Provence-Alpes-Cote d'Azur;Avignon
+TOP2-TOP3-TOP2-TOP2,54,EU;FR;Provence-Alpes-Cote d'Azur;Marseille
+TOP2-TOP3-TOP2-TOP3,7,EU;FR;Provence-Alpes-Cote d'Azur;Nice
+TOP2-TOP3-TOP2-TOP4,1,EU;FR;Provence-Alpes-Cote d'Azur;Sophia Antipolis
+TOP2-TOP3-TOP2-TOP5,1,EU;FR;Provence-Alpes-Cote d'Azur;La Garde
+TOP2-TOP3-TOP2-TOP6,1,EU;FR;Provence-Alpes-Cote d'Azur;Villefranche-sur-Mer
+TOP2-TOP3-TOP3-TOP1,37,EU;FR;Rhone-Alpes;Villeurbanne
+TOP2-TOP3-TOP3-TOP2,34,EU;FR;Rhone-Alpes;Lyon
+TOP2-TOP3-TOP3-TOP3,32,EU;FR;Rhone-Alpes;Grenoble
+TOP2-TOP3-TOP3-TOP4,10,EU;FR;Rhone-Alpes;Villeneuve
+TOP2-TOP3-TOP3-TOP5,3,EU;FR;Rhone-Alpes;Annemasse
+TOP2-TOP3-TOP3-TOP6,2,EU;FR;Rhone-Alpes;Saint-Martin-d'Heres
+TOP2-TOP3-TOP4-TOP1,96,EU;FR;Languedoc-Roussillon;Montpellier
+TOP2-TOP3-TOP4-TOP2,1,EU;FR;Languedoc-Roussillon;Saint-Gilles
+TOP2-TOP3-TOP4-TOP3,1,EU;FR;Languedoc-Roussillon;Nimes
+TOP2-TOP3-TOP5-TOP1,70,EU;FR;Nord-Pas-de-Calais;Roubaix
+TOP2-TOP3-TOP5-TOP2,2,EU;FR;Nord-Pas-de-Calais;Lille
+TOP2-TOP3-TOP6-TOP1,32,EU;FR;Alsace;Illkirch-Graffenstaden
+TOP2-TOP3-TOP6-TOP2,2,EU;FR;Alsace;Strasbourg
+TOP2-TOP3-TOP6-TOP3,1,EU;FR;Alsace;Saint-Louis
+TOP2-TOP4-TOP1-TOP1,62,EU;IT;Lombardia;Milan
+TOP2-TOP4-TOP1-TOP2,4,EU;IT;Lombardia;Como
+TOP2-TOP4-TOP1-TOP3,3,EU;IT;Lombardia;Pavia
+TOP2-TOP4-TOP1-TOP4,3,EU;IT;Lombardia;Bergamo
+TOP2-TOP4-TOP1-TOP5,3,EU;IT;Lombardia;Segrate
+TOP2-TOP4-TOP1-TOP6,2,EU;IT;Lombardia;Brescia
+TOP2-TOP4-TOP2-TOP1,68,EU;IT;Veneto;Padova
+TOP2-TOP4-TOP2-TOP2,7,EU;IT;Veneto;Verona
+TOP2-TOP4-TOP2-TOP3,1,EU;IT;Veneto;Due Carrare
+TOP2-TOP4-TOP2-TOP4,1,EU;IT;Veneto;Venice
+TOP2-TOP4-TOP3-TOP1,40,EU;IT;Emilia-Romagna;Bologna
+TOP2-TOP4-TOP3-TOP2,14,EU;IT;Emilia-Romagna;Casalecchio di Reno
+TOP2-TOP4-TOP3-TOP3,7,EU;IT;Emilia-Romagna;Modena
+TOP2-TOP4-TOP3-TOP4,6,EU;IT;Emilia-Romagna;Ferrara
+TOP2-TOP4-TOP3-TOP5,3,EU;IT;Emilia-Romagna;Parma
+TOP2-TOP4-TOP3-TOP6,1,EU;IT;Emilia-Romagna;Sissa
+TOP2-TOP4-TOP4-TOP1,45,EU;IT;Lazio;Rome
+TOP2-TOP4-TOP4-TOP2,2,EU;IT;Lazio;Frosinone
+TOP2-TOP4-TOP4-TOP3,2,EU;IT;Lazio;Ciampino
+TOP2-TOP4-TOP4-TOP4,2,EU;IT;Lazio;Faleria
+TOP2-TOP4-TOP4-TOP5,1,EU;IT;Lazio;Latina
+TOP2-TOP4-TOP4-TOP6,1,EU;IT;Lazio;Monterotondo
+TOP2-TOP4-TOP5-TOP1,20,EU;IT;Toscana;Florence
+TOP2-TOP4-TOP5-TOP2,14,EU;IT;Toscana;Pisa
+TOP2-TOP4-TOP5-TOP3,13,EU;IT;Toscana;Bibbiena
+TOP2-TOP4-TOP5-TOP4,3,EU;IT;Toscana;Siena
+TOP2-TOP4-TOP5-TOP5,1,EU;IT;Toscana;Prato
+TOP2-TOP4-TOP5-TOP6,1,EU;IT;Toscana;Arezzo
+TOP2-TOP4-TOP6-TOP1,18,EU;IT;Campania;Naples
+TOP2-TOP4-TOP6-TOP2,6,EU;IT;Campania;Salerno
+TOP2-TOP4-TOP6-TOP3,3,EU;IT;Campania;Pozzuoli
+TOP2-TOP4-TOP6-TOP4,2,EU;IT;Campania;Baronissi
+TOP2-TOP4-TOP6-TOP5,2,EU;IT;Campania;Benevento
+TOP2-TOP4-TOP6-TOP6,1,EU;IT;Campania;Caserta
+TOP2-TOP5-TOP1-TOP1,130,EU;ES;Catalunya;Barcelona
+TOP2-TOP5-TOP1-TOP2,14,EU;ES;Catalunya;Sabadell
+TOP2-TOP5-TOP1-TOP3,11,EU;ES;Catalunya;Esplugues de Llobregat
+TOP2-TOP5-TOP1-TOP4,10,EU;ES;Catalunya;Tarragona
+TOP2-TOP5-TOP1-TOP5,5,EU;ES;Catalunya;Lleida
+TOP2-TOP5-TOP1-TOP6,2,EU;ES;Catalunya;L'Hospitalet de Llobregat
+TOP2-TOP5-TOP2-TOP1,91,EU;ES;Madrid, Comunidad de;Madrid
+TOP2-TOP5-TOP2-TOP2,37,EU;ES;Madrid, Comunidad de;Pinar de Chamartin
+TOP2-TOP5-TOP2-TOP3,2,EU;ES;Madrid, Comunidad de;Alcobendas
+TOP2-TOP5-TOP2-TOP4,1,EU;ES;Madrid, Comunidad de;Coslada
+TOP2-TOP5-TOP2-TOP5,1,EU;ES;Madrid, Comunidad de;Getafe
+TOP2-TOP5-TOP3-TOP1,18,EU;ES;Andalucia;Granada
+TOP2-TOP5-TOP3-TOP2,15,EU;ES;Andalucia;Malaga
+TOP2-TOP5-TOP3-TOP3,5,EU;ES;Andalucia;Sevilla
+TOP2-TOP5-TOP3-TOP4,4,EU;ES;Andalucia;Rioja
+TOP2-TOP5-TOP3-TOP5,2,EU;ES;Andalucia;Almeria
+TOP2-TOP5-TOP3-TOP6,1,EU;ES;Andalucia;Dos Hermanas
+TOP2-TOP5-TOP4-TOP1,22,EU;ES;Valenciana, Comunidad;Alcoy
+TOP2-TOP5-TOP4-TOP2,18,EU;ES;Valenciana, Comunidad;Valencia
+TOP2-TOP5-TOP4-TOP3,4,EU;ES;Valenciana, Comunidad;Alicante
+TOP2-TOP5-TOP4-TOP4,1,EU;ES;Valenciana, Comunidad;Elda
+TOP2-TOP5-TOP4-TOP5,1,EU;ES;Valenciana, Comunidad;Villanueva de Castellon
+TOP2-TOP5-TOP5-TOP1,12,EU;ES;Galicia;Pontevedra
+TOP2-TOP5-TOP5-TOP2,12,EU;ES;Galicia;Vigo
+TOP2-TOP5-TOP5-TOP3,9,EU;ES;Galicia;Ourense
+TOP2-TOP5-TOP5-TOP4,6,EU;ES;Galicia;Ribadavia
+TOP2-TOP5-TOP5-TOP5,3,EU;ES;Galicia;Santiago de Compostela
+TOP2-TOP5-TOP6-TOP1,6,EU;ES;Pais Vasco;Bilbao
+TOP2-TOP5-TOP6-TOP2,5,EU;ES;Pais Vasco;Leioa
+TOP2-TOP5-TOP6-TOP3,4,EU;ES;Pais Vasco;Derio
+TOP2-TOP5-TOP6-TOP4,2,EU;ES;Pais Vasco;Irun
+TOP2-TOP5-TOP6-TOP5,1,EU;ES;Pais Vasco;San Sebastian
+TOP2-TOP6-TOP1-TOP1,148,EU;NL;Utrecht;Houten
+TOP2-TOP6-TOP1-TOP2,12,EU;NL;Utrecht;Utrecht
+TOP2-TOP6-TOP1-TOP3,1,EU;NL;Utrecht;Nieuwegein
+TOP2-TOP6-TOP2-TOP1,24,EU;NL;Zuid-Holland;Leiden
+TOP2-TOP6-TOP2-TOP2,20,EU;NL;Zuid-Holland;Rotterdam
+TOP2-TOP6-TOP2-TOP3,15,EU;NL;Zuid-Holland;Delft
+TOP2-TOP6-TOP2-TOP4,7,EU;NL;Zuid-Holland;Dordrecht
+TOP2-TOP6-TOP2-TOP5,6,EU;NL;Zuid-Holland;Sassenheim
+TOP2-TOP6-TOP2-TOP6,3,EU;NL;Zuid-Holland;Den Haag
+TOP2-TOP6-TOP3-TOP1,70,EU;NL;Noord-Holland;Amsterdam
+TOP2-TOP6-TOP3-TOP2,4,EU;NL;Noord-Holland;Amstelveen
+TOP2-TOP6-TOP3-TOP3,1,EU;NL;Noord-Holland;Haarlem
+TOP2-TOP6-TOP3-TOP4,1,EU;NL;Noord-Holland;Beverwijk
+TOP2-TOP6-TOP4-TOP1,38,EU;NL;Gelderland;Nijmegen
+TOP2-TOP6-TOP4-TOP2,25,EU;NL;Gelderland;Wageningen
+TOP2-TOP6-TOP4-TOP3,1,EU;NL;Gelderland;Arnhem
+TOP2-TOP6-TOP4-TOP4,1,EU;NL;Gelderland;Ede
+TOP2-TOP6-TOP5-TOP1,30,EU;NL;Groningen;Groningen
+TOP2-TOP6-TOP5-TOP2,6,EU;NL;Groningen;Winschoten
+TOP2-TOP6-TOP6-TOP1,13,EU;NL;Limburg;Maastricht
+TOP3-TOP1-TOP1-TOP1,291,AS;CN;Beijing;Beijing
+TOP3-TOP1-TOP1-TOP2,58,AS;CN;Beijing;Mentougou
+TOP3-TOP1-TOP1-TOP3,4,AS;CN;Beijing;Xicheng
+TOP3-TOP1-TOP1-TOP4,2,AS;CN;Beijing;Shunyi
+TOP3-TOP1-TOP1-TOP5,1,AS;CN;Beijing;Tongzhou
+TOP3-TOP1-TOP2-TOP1,188,AS;CN;Shanghai;Shanghai
+TOP3-TOP1-TOP2-TOP2,27,AS;CN;Shanghai;Jiangchuanlu
+TOP3-TOP1-TOP2-TOP3,11,AS;CN;Shanghai;Changzheng
+TOP3-TOP1-TOP2-TOP4,3,AS;CN;Shanghai;Huamu
+TOP3-TOP1-TOP2-TOP5,1,AS;CN;Shanghai;Anting
+TOP3-TOP1-TOP3-TOP1,29,AS;CN;Guangdong;Guangzhou
+TOP3-TOP1-TOP3-TOP2,22,AS;CN;Guangdong;Shenzhen
+TOP3-TOP1-TOP3-TOP3,20,AS;CN;Guangdong;Huizhou
+TOP3-TOP1-TOP3-TOP4,17,AS;CN;Guangdong;Zhongshan
+TOP3-TOP1-TOP3-TOP5,1,AS;CN;Guangdong;Shantou
+TOP3-TOP1-TOP4-TOP1,39,AS;CN;Zhejiang;Hangzhou
+TOP3-TOP1-TOP4-TOP2,28,AS;CN;Zhejiang;Gudang
+TOP3-TOP1-TOP4-TOP3,4,AS;CN;Zhejiang;Wenzhou
+TOP3-TOP1-TOP4-TOP4,1,AS;CN;Zhejiang;Lishui
+TOP3-TOP1-TOP5-TOP1,39,AS;CN;Sichuan;Chengdu
+TOP3-TOP1-TOP5-TOP2,18,AS;CN;Sichuan;Linqiong
+TOP3-TOP1-TOP5-TOP3,2,AS;CN;Sichuan;Ya'an
+TOP3-TOP1-TOP5-TOP4,1,AS;CN;Sichuan;Huagai
+TOP3-TOP1-TOP6-TOP1,47,AS;CN;Heilongjiang;Harbin
+TOP3-TOP1-TOP6-TOP2,1,AS;CN;Heilongjiang;Fengxiang
+TOP3-TOP2-TOP1-TOP1,401,AS;JP;Tokyo;Tokyo
+TOP3-TOP2-TOP1-TOP2,29,AS;JP;Tokyo;Higashimurayama
+TOP3-TOP2-TOP1-TOP3,7,AS;JP;Tokyo;Meguro-ku
+TOP3-TOP2-TOP1-TOP4,5,AS;JP;Tokyo;Tachikawa
+TOP3-TOP2-TOP1-TOP5,2,AS;JP;Tokyo;Musashino
+TOP3-TOP2-TOP1-TOP6,1,AS;JP;Tokyo;Shinagawa-ku
+TOP3-TOP2-TOP2-TOP1,71,AS;JP;Saitama;Saitama
+TOP3-TOP2-TOP3-TOP1,39,AS;JP;Osaka;Osaka
+TOP3-TOP2-TOP3-TOP2,20,AS;JP;Osaka;Ibaraki
+TOP3-TOP2-TOP3-TOP3,2,AS;JP;Osaka;Higashiosaka
+TOP3-TOP2-TOP4-TOP1,32,AS;JP;Chiba;Chiba
+TOP3-TOP2-TOP5-TOP1,11,AS;JP;Kanagawa;Yokohama
+TOP3-TOP2-TOP5-TOP2,4,AS;JP;Kanagawa;Fujisawa
+TOP3-TOP2-TOP5-TOP3,3,AS;JP;Kanagawa;Yamato
+TOP3-TOP2-TOP5-TOP4,2,AS;JP;Kanagawa;Sagamihara
+TOP3-TOP2-TOP6-TOP1,8,AS;JP;Ibaraki;Tsukuba
+TOP3-TOP2-TOP6-TOP2,5,AS;JP;Ibaraki;Moriya
+TOP3-TOP2-TOP6-TOP3,3,AS;JP;Ibaraki;Mito
+TOP3-TOP3-TOP1-TOP1,182,AS;IN;Delhi;Delhi
+TOP3-TOP3-TOP1-TOP2,8,AS;IN;Delhi;New Delhi
+TOP3-TOP3-TOP1-TOP3,1,AS;IN;Delhi;Nangloi Jat
+TOP3-TOP3-TOP2-TOP1,66,AS;IN;Karnataka;Bangalore
+TOP3-TOP3-TOP2-TOP2,34,AS;IN;Karnataka;Yelahanka
+TOP3-TOP3-TOP2-TOP3,2,AS;IN;Karnataka;Ramanagaram
+TOP3-TOP3-TOP2-TOP4,1,AS;IN;Karnataka;Hoskote
+TOP3-TOP3-TOP2-TOP5,1,AS;IN;Karnataka;Bijapur
+TOP3-TOP3-TOP2-TOP6,1,AS;IN;Karnataka;Mangalore
+TOP3-TOP3-TOP3-TOP1,46,AS;IN;Telangana;Hyderabad
+TOP3-TOP3-TOP3-TOP2,6,AS;IN;Telangana;Serilingampalle
+TOP3-TOP3-TOP3-TOP3,2,AS;IN;Telangana;Kukatpalli
+TOP3-TOP3-TOP3-TOP4,1,AS;IN;Telangana;Secunderabad
+TOP3-TOP3-TOP4-TOP1,24,AS;IN;Tamil Nadu;Chennai
+TOP3-TOP3-TOP4-TOP2,7,AS;IN;Tamil Nadu;Auroville
+TOP3-TOP3-TOP4-TOP3,4,AS;IN;Tamil Nadu;Singanallur
+TOP3-TOP3-TOP4-TOP4,2,AS;IN;Tamil Nadu;Guduvancheri
+TOP3-TOP3-TOP4-TOP5,1,AS;IN;Tamil Nadu;Perur
+TOP3-TOP3-TOP4-TOP6,1,AS;IN;Tamil Nadu;Coimbatore
+TOP3-TOP3-TOP5-TOP1,18,AS;IN;Uttar Pradesh;Noida
+TOP3-TOP3-TOP5-TOP2,10,AS;IN;Uttar Pradesh;Ghaziabad
+TOP3-TOP3-TOP5-TOP3,5,AS;IN;Uttar Pradesh;Lucknow
+TOP3-TOP3-TOP5-TOP4,4,AS;IN;Uttar Pradesh;Kanpur
+TOP3-TOP3-TOP6-TOP1,9,AS;IN;Maharashtra;Pune
+TOP3-TOP3-TOP6-TOP2,7,AS;IN;Maharashtra;Mumbai
+TOP3-TOP3-TOP6-TOP3,5,AS;IN;Maharashtra;Powai
+TOP3-TOP3-TOP6-TOP4,1,AS;IN;Maharashtra;Pimpri
+TOP3-TOP4-TOP1-TOP1,232,AS;TW;T'ai-wan;Taipei
+TOP3-TOP4-TOP1-TOP2,23,AS;TW;T'ai-wan;Hsinchu
+TOP3-TOP4-TOP1-TOP3,23,AS;TW;T'ai-wan;Tainan
+TOP3-TOP4-TOP1-TOP4,16,AS;TW;T'ai-wan;Taoyuan City
+TOP3-TOP4-TOP1-TOP5,16,AS;TW;T'ai-wan;Miaoli
+TOP3-TOP4-TOP1-TOP6,13,AS;TW;T'ai-wan;Keelung
+TOP3-TOP4-TOP2-TOP1,32,AS;TW;T'ai-pei;Banqiao
+TOP3-TOP4-TOP3-TOP1,4,AS;TW;Kao-hsiung;Kaohsiung
+TOP3-TOP5-TOP1-TOP1,224,AS;KR;Seoul;Seoul
+TOP3-TOP5-TOP2-TOP1,19,AS;KR;Gyeonggi;Anseong
+TOP3-TOP5-TOP2-TOP2,5,AS;KR;Gyeonggi;Suwon
+TOP3-TOP5-TOP2-TOP3,4,AS;KR;Gyeonggi;Kuri
+TOP3-TOP5-TOP2-TOP4,1,AS;KR;Gyeonggi;Seongnam
+TOP3-TOP5-TOP2-TOP5,1,AS;KR;Gyeonggi;Ansan
+TOP3-TOP5-TOP3-TOP1,20,AS;KR;Daejeon;Taiden
+TOP3-TOP5-TOP4-TOP1,10,AS;KR;Gyeongbuk;Hayang
+TOP3-TOP5-TOP4-TOP2,4,AS;KR;Gyeongbuk;Pohang
+TOP3-TOP5-TOP4-TOP3,2,AS;KR;Gyeongbuk;Enjitsu
+TOP3-TOP5-TOP5-TOP1,7,AS;KR;Jeonnam;Haenam
+TOP3-TOP5-TOP6-TOP1,4,AS;KR;Busan;Kijang
+TOP3-TOP5-TOP6-TOP2,2,AS;KR;Busan;Busan
+TOP3-TOP6-TOP1-TOP1,89,AS;IL;Tel-Aviv;Tel Aviv
+TOP3-TOP6-TOP1-TOP2,5,AS;IL;Tel-Aviv;Ramat Gan
+TOP3-TOP6-TOP2-TOP1,33,AS;IL;HaMerkaz;Rehovot
+TOP3-TOP6-TOP2-TOP2,5,AS;IL;HaMerkaz;Rishon LeZiyyon
+TOP3-TOP6-TOP2-TOP3,4,AS;IL;HaMerkaz;Petah Tikva
+TOP3-TOP6-TOP3-TOP1,33,AS;IL;Yerushalayim;West Jerusalem
+TOP3-TOP6-TOP3-TOP2,1,AS;IL;Yerushalayim;Bet Shemesh
+TOP3-TOP6-TOP4-TOP1,19,AS;IL;Hefa;Haifa
+TOP3-TOP6-TOP5-TOP1,15,AS;IL;HaDarom;Beersheba
+TOP4-TOP1-TOP1-TOP1,74,OC;AU;Queensland;Brisbane
+TOP4-TOP1-TOP1-TOP2,14,OC;AU;Queensland;Bancroft
+TOP4-TOP1-TOP1-TOP3,1,OC;AU;Queensland;Warren
+TOP4-TOP1-TOP1-TOP4,1,OC;AU;Queensland;Indooroopilly
+TOP4-TOP1-TOP2-TOP1,45,OC;AU;Victoria;Melbourne
+TOP4-TOP1-TOP2-TOP2,22,OC;AU;Victoria;Clayton
+TOP4-TOP1-TOP2-TOP3,4,OC;AU;Victoria;Clayton North
+TOP4-TOP1-TOP2-TOP4,4,OC;AU;Victoria;Mernda
+TOP4-TOP1-TOP2-TOP5,3,OC;AU;Victoria;Doncaster
+TOP4-TOP1-TOP2-TOP6,2,OC;AU;Victoria;Beaumaris
+TOP4-TOP1-TOP3-TOP1,52,OC;AU;New South Wales;Sydney
+TOP4-TOP1-TOP3-TOP2,7,OC;AU;New South Wales;Parkville
+TOP4-TOP1-TOP3-TOP3,5,OC;AU;New South Wales;Ryde
+TOP4-TOP1-TOP3-TOP4,2,OC;AU;New South Wales;Armidale
+TOP4-TOP1-TOP3-TOP5,2,OC;AU;New South Wales;Ultimo
+TOP4-TOP1-TOP3-TOP6,2,OC;AU;New South Wales;Cessnock
+TOP4-TOP1-TOP4-TOP1,16,OC;AU;Australian Capital Territory;Canberra
+TOP4-TOP1-TOP4-TOP2,8,OC;AU;Australian Capital Territory;Dickson
+TOP4-TOP1-TOP4-TOP3,1,OC;AU;Australian Capital Territory;Braddon
+TOP4-TOP1-TOP5-TOP1,7,OC;AU;Western Australia;Perth
+TOP4-TOP1-TOP5-TOP2,2,OC;AU;Western Australia;Murdoch
+TOP4-TOP1-TOP5-TOP3,2,OC;AU;Western Australia;O'Connor
+TOP4-TOP1-TOP5-TOP4,2,OC;AU;Western Australia;Stirling
+TOP4-TOP1-TOP5-TOP5,2,OC;AU;Western Australia;Pearce
+TOP4-TOP1-TOP6-TOP1,8,OC;AU;South Australia;Adelaide
+TOP4-TOP1-TOP6-TOP2,1,OC;AU;South Australia;Nuriootpa
+TOP4-TOP1-TOP6-TOP3,1,OC;AU;South Australia;Mawson Lakes
+TOP4-TOP2-TOP1-TOP1,18,OC;NZ;Otago;Dunedin
+TOP4-TOP2-TOP2-TOP1,7,OC;NZ;Auckland;Auckland
+TOP4-TOP2-TOP3-TOP1,3,OC;NZ;Waikato;Hamilton
+TOP4-TOP2-TOP4-TOP1,2,OC;NZ;Wellington;Wellington
+TOP4-TOP2-TOP5-TOP1,2,OC;NZ;Manawatu-Wanganui;Palmerston North
+TOP5-TOP1-TOP1-TOP1,50,SA;BR;Sao Paulo;Sao Paulo
+TOP5-TOP1-TOP1-TOP2,18,SA;BR;Sao Paulo;Campinas
+TOP5-TOP1-TOP1-TOP3,2,SA;BR;Sao Paulo;Taboao da Serra
+TOP5-TOP1-TOP1-TOP4,2,SA;BR;Sao Paulo;Sao Jose do Rio Preto
+TOP5-TOP1-TOP1-TOP5,1,SA;BR;Sao Paulo;Sao Carlos
+TOP5-TOP1-TOP1-TOP6,1,SA;BR;Sao Paulo;Ribeirao Preto
+TOP5-TOP1-TOP2-TOP1,10,SA;BR;Rio de Janeiro;Rio de Janeiro
+TOP5-TOP1-TOP2-TOP2,6,SA;BR;Rio de Janeiro;Petropolis
+TOP5-TOP1-TOP3-TOP1,4,SA;BR;Minas Gerais;Belo Horizonte
+TOP5-TOP1-TOP3-TOP2,1,SA;BR;Minas Gerais;Vicosa
+TOP5-TOP1-TOP4-TOP1,5,SA;BR;Espirito Santo;Alegre
+TOP5-TOP1-TOP5-TOP1,4,SA;BR;Pernambuco;Recife
+TOP5-TOP1-TOP6-TOP1,2,SA;BR;Parana;Pato Branco
+TOP5-TOP1-TOP6-TOP2,1,SA;BR;Parana;Curitiba
+TOP5-TOP1-TOP6-TOP3,1,SA;BR;Parana;Londrina
+TOP5-TOP2-TOP1-TOP1,20,SA;AR;Ciudad Autonoma de Buenos Aires;Buenos Aires
+TOP5-TOP2-TOP2-TOP1,2,SA;AR;Santa Fe;Rosario
+TOP5-TOP2-TOP2-TOP2,2,SA;AR;Santa Fe;Santa Fe de la Vera Cruz
+TOP5-TOP2-TOP3-TOP1,1,SA;AR;San Luis;San Luis
+TOP5-TOP2-TOP4-TOP1,1,SA;AR;Cordoba;Cordoba
+TOP5-TOP3-TOP1-TOP1,11,SA;CL;Region Metropolitana de Santiago;Santiago
+TOP5-TOP3-TOP2-TOP1,1,SA;CL;Maule;Talca
+TOP5-TOP3-TOP3-TOP1,1,SA;CL;Biobio;Concepcion
+TOP5-TOP4-TOP1-TOP1,1,SA;CO;Caldas;Manizales
+TOP5-TOP4-TOP2-TOP1,1,SA;CO;Distrito Capital de Bogota;Bogota
+TOP6-TOP1-TOP1-TOP1,13,AF;ZA;Western Cape;Cape Town
+TOP6-TOP1-TOP1-TOP2,10,AF;ZA;Western Cape;Sunset Beach
+TOP6-TOP1-TOP1-TOP3,3,AF;ZA;Western Cape;Stellenbosch
+TOP6-TOP1-TOP2-TOP1,4,AF;ZA;Gauteng;Soweto
+TOP6-TOP1-TOP2-TOP2,4,AF;ZA;Gauteng;Pretoria
+TOP6-TOP1-TOP2-TOP3,1,AF;ZA;Gauteng;Johannesburg
+TOP6-TOP1-TOP3-TOP1,1,AF;ZA;Eastern Cape;Grahamstown
+TOP6-TOP2-TOP1-TOP1,4,AF;EG;Al Qahirah;Cairo
+TOP6-TOP3-TOP1-TOP1,1,AF;MA;Chaouia-Ouardigha;Settat
+TOP6-TOP3-TOP2-TOP1,1,AF;MA;Rabat-Sale-Zemmour-Zaer;Rabat
+TOP6-TOP4-TOP1-TOP1,1,AF;KE;Nairobi Area;Nairobi

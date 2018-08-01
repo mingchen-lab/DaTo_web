@@ -1,0 +1,41 @@
+
+#mynetwork {
+    width: 800px;
+    height: 800px;
+    border: 1px solid lightgray;
+}
+
+div.nodeContent {
+    position: relative;
+    border: 1px solid lightgray;
+    width: 480px;
+    height: 780px;
+    margin-top: -802px;
+    margin-left: 810px;
+    padding: 10px;
+}
+
+pre {
+    padding: 5px;
+    margin: 5px;
+}
+
+.string {
+    color: green;
+}
+
+.number {
+    color: darkorange;
+}
+
+.boolean {
+    color: blue;
+}
+
+.null {
+    color: magenta;
+}
+
+.key {
+    color: red;
+}

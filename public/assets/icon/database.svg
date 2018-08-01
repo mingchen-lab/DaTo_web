@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="58px" viewBox="0 0 47 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>database</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="database" stroke-width="1.5" stroke="#4A4A4A">
+            <g id="Database" transform="translate(14.000000, 18.000000)">
+                <g id="package">
+                    <path d="M10.89,0.45 L18.89,4.45 C19.5696577,4.78773001 19.9995973,5.48105603 20,6.24 L20,15.77 C19.9995973,16.528944 19.5696577,17.22227 18.89,17.56 L10.89,21.56 C10.3266321,21.8419095 9.66336793,21.8419095 9.1,21.56 L1.1,17.56 C0.420992406,17.2178689 -0.00529133616,16.5203137 1.11020947e-15,15.76 L1.11020947e-15,6.24 C0.000402725292,5.48105603 0.430342321,4.78773001 1.11,4.45 L9.11,0.45 C9.67063262,0.171414851 10.3293674,0.171414851 10.89,0.45 Z" id="Shape"></path>
+                    <polyline id="Shape" points="0.32 5.16 10 10 19.68 5.16"></polyline>
+                    <path d="M10,21.76 L10,10" id="Shape"></path>
+                    <path d="M5,2.5 L15,7.5" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
